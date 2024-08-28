@@ -4,6 +4,6 @@ NPM : 2306245440
 
 Kelas : PBP C
 
-Hobi : Makan nasi padang
+Hobi : Tidur
 
-halo
+Jurusan : Sistem Informasi
